@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vExclusiveOr
+Z0 !s110 1567605235
+!i10b 1
+!s100 [@ek`azKamH``KQSXhHN=1
+IZeBfYPiMbaaHeD81eDc7U2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/funny/Desktop/Modelsim labs
+w1567605123
+8C:/Users/funny/Desktop/Modelsim labs/ExclusiveOR.v
+FC:/Users/funny/Desktop/Modelsim labs/ExclusiveOR.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1567605235.000000
+!s107 C:/Users/funny/Desktop/Modelsim labs/ExclusiveOR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/funny/Desktop/Modelsim labs/ExclusiveOR.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@exclusive@or
+vExclusiveOr1
+R0
+!i10b 1
+!s100 2R@Qhl:>KO^2fGf4BNXgd2
+Im01jR6X<f<[l7R]RI@BeB2
+R1
+R2
+w1567605226
+8C:/Users/funny/Desktop/Modelsim labs/ExclusiveOR1.v
+FC:/Users/funny/Desktop/Modelsim labs/ExclusiveOR1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/funny/Desktop/Modelsim labs/ExclusiveOR1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/funny/Desktop/Modelsim labs/ExclusiveOR1.v|
+!i113 1
+R5
+R6
+n@exclusive@or1
+vmult_acc
+!s110 1565892626
+!i10b 1
+!s100 Jf;TKb;:D`NK?P[zL5`Uf2
+I]G3bbz^W:3UC4XYZ9mh?N1
+R1
+R2
+w1565705777
+8C:/Users/funny/Desktop/LAB1 direct/mult_acc.v
+FC:/Users/funny/Desktop/LAB1 direct/mult_acc.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1565892626.000000
+!s107 C:/Users/funny/Desktop/LAB1 direct/mult_acc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/funny/Desktop/LAB1 direct/mult_acc.v|
+!i113 1
+R5
+R6
