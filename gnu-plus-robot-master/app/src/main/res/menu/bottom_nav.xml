@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/programListFragment"
+        android:icon="@drawable/ic_program_list"
+        android:title="Program"/>
+    <item
+        android:id="@+id/controlListFragment"
+        android:icon="@drawable/ic_control"
+        android:title="Control"/>
+    <item
+        android:id="@+id/stateFragment"
+        android:icon="@drawable/ic_state"
+        android:title="State"/>
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"/>
+</menu>

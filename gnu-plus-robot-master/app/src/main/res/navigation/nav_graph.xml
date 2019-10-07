@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/stateFragment">
+
+    <fragment
+        android:id="@+id/stateFragment"
+        android:name="com.miemdynamics.gnurobot.ui.state.StateFragment"
+        android:label="state_fragment"
+        tools:layout="@layout/state_fragment" />
+    <fragment
+        android:id="@+id/programListFragment"
+        android:name="com.miemdynamics.gnurobot.ui.program.list.ProgramListFragment"
+        android:label="program_list_fragment"
+        tools:layout="@layout/program_list_fragment" />
+    <fragment
+        android:id="@+id/programDetailFragment"
+        android:name="com.miemdynamics.gnurobot.ui.program.detail.ProgramDetailFragment"
+        android:label="program_detail_fragment"
+        tools:layout="@layout/program_detail_fragment" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.miemdynamics.gnurobot.ui.settings.SettingsFragment"
+        android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/controlListFragment"
+        android:name="com.miemdynamics.gnurobot.ui.control.list.ControlListFragment"
+        android:label="control_list_fragment"
+        tools:layout="@layout/control_list_fragment" />
+</navigation>
